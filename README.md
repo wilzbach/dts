@@ -6,7 +6,7 @@ What is `dts`?
 --------------
 
 A fresh and modern standard library for D aimed at being efficient and easy-to-use.
-Users of Phobos will find it very familar whereas newcomers to the language should find it intuitive to use.
+Users of Phobos will find it very familiar whereas newcomers to the language should find it intuitive to use.
 
 Why not improve Phobos?
 -----------------------
